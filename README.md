@@ -5,6 +5,12 @@ Django CRM is opensource CRM developed on django framework. It has all
 the basic features of CRM to start with. We welcome code contributions
 and feature requests via github.
 
+
+
+
+
+
+
 <http://django-crm.readthedocs.io> for latest documentation
 
 This project contains the following modules:
@@ -110,3 +116,9 @@ We welcome your feedback and support, raise github issue if you want to
 report a bug or request new feature. we are glad to help.
 
 For commercial support [Contact us](https://micropyramid.com/contact-us/)
+
+![alt text](https://lakeacr.com/home/public/shawosy/assets/storage/Uploaded/Images/41634756789.png)
+![alt text](https://lakeacr.com/home/public/shawosy/assets/storage/Uploaded/Images/01634756783.png)
+![alt text](https://lakeacr.com/home/public/shawosy/assets/storage/Uploaded/Images/11634756786.png)
+![alt text](https://lakeacr.com/home/public/shawosy/assets/storage/Uploaded/Images/21634756788.png)
+![alt text](https://lakeacr.com/home/public/shawosy/assets/storage/Uploaded/Images/31634756788.png)
